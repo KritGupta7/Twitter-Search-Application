@@ -8,7 +8,7 @@
 
 ## Team Members
 - Sai Adarsh Kasula ([SK2837))
-- Krit Sriram Gupta ([KSG124]))
+- Krit Shreeram Gupta ([KSG124]))
 - Himani Hooda ([HH660))
 - Vanshika Ram Gurbani ([VG460])
 
