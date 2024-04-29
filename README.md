@@ -8,9 +8,9 @@
 
 ## Team Members
 - Sai Adarsh Kasula ([SK2837))
-- Krit S Gupta ([KSG124]))
+- Krit Sriram Gupta ([KSG124]))
 - Himani Hooda ([HH660))
-- Vanshika Gurbani ([VG460])
+- Vanshika Ram Gurbani ([VG460])
 
 ## Department
 Department of Statistics & Data Science, Rutgers University, New Brunswick, NJ
