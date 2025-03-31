@@ -37,17 +37,17 @@ Twitter is one of the most popular social media platforms globally, with million
 - Final architecture includes a Flask-based user interface, core functionalities for searching by User, Hashtag, and Search String/Term, and caching system for efficient search performance.
 
 ## 4. Data Storage
-### 4.1. User Data Storage (By Krit S Gupta)
+### 4.1. User Data Storage (By Sai Adarsh Kasula)
 - User data was extracted and transferred using Python to a MySQL database.
 - MySQL was chosen for its reliability, scalability, and community support.
 - 90k unique users were identified and stored in a MySQL database.
 
-### 4.2. Tweets Data Storage (By Krit S Gupta)
+### 4.2. Tweets Data Storage (By Sai Adarsh Kasula)
 - Tweets data was stored in MongoDB due to its dynamic structure and suitability for storing tweets.
 - About 112,000 unique tweets and retweets were extracted and stored in MongoDB.
 - Indexes were created on "User_Id" and "Text" fields for better query performance.
 
-## 5. Search Implementation( By Sai Adarsh Kasula)
+## 5. Search Implementation( By Krit Gupta)
 - Core functionalities include searching by User, Hashtag, and Search String/Term.
 - Trending Searches (Users, Tweets, Hashtags) feature is available.
 - Efficient caching mechanism is implemented to improve search performance.
@@ -57,7 +57,7 @@ Twitter is one of the most popular social media platforms globally, with million
 - Cache class provides efficient caching mechanisms with methods for managing the cache.
 - Caching significantly improves system performance by reducing response time and database load.
 
-## 7. Search Application Design (By Sai Adarsh Kasula)
+## 7. Search Application Design (By Krit Gupta)
 - User interface is built using CSS styling, HTML, and Flask framework.
 - Multiple pages are created for various search functionalities.
 - Drill-downs are available for each search query.
